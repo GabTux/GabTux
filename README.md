@@ -3,7 +3,7 @@
 I'm Gabriel, software engineer based in Europe, Czech Republic.
 
 Interested in:
-- Open source sofware
+- Open source software
 - HPC (High Performance Computing)
 - Multi-threading
 - GPGPU
