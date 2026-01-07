@@ -6,7 +6,7 @@ Interested in:
 - Open source software
 - HPC (High Performance Computing)
 - Multi-threading
-- GPGPU
+- Distributed Systems
 
 <!--
 **GabTux/GabTux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
