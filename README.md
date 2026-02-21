@@ -1,12 +1,13 @@
 # About Me
 
-I'm Gabriel, software engineer based in Europe, Czech Republic.
+I'm Gabriel, software engineer based in Europe.
 
 Interested in:
 - Open source software
 - HPC (High Performance Computing)
 - Multi-threading
 - Distributed Systems
+- AI
 
 <!--
 **GabTux/GabTux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
